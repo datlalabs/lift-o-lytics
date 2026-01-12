@@ -26,7 +26,8 @@ import matplotlib.pyplot as plt
 # ----------------------------
 # USER: set your CSV path here
 # ----------------------------
-CSV_PATH = r"C:\Users\abhin\Desktop\lift-o-lytics\bod_data.csv"  # <-- CHANGE THIS
+CSV_PATH = r"C:\Users\abhin\Desktop\lift-o-lytics\bod_data.csv" # <-- CHANGE THIS
+
 
 
 
